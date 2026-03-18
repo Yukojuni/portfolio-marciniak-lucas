@@ -32,8 +32,8 @@ export function HeroSection() {
           </p>
 
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-10 leading-relaxed text-pretty">
-            Étudiant en informatique passionné par l'intelligence artificielle et l'analyse de données. 
-            Je transforme les données en insights actionnables et les idées en solutions concrètes.
+            Étudiant en informatique orienté IA et data, 
+            je vise des projets où l’analyse de données et les modèles prédictifs contribuent à innover, à mieux comprendre et à mieux décider.
           </p>
 
           {/* CTAs */}
@@ -45,7 +45,7 @@ export function HeroSection() {
               Voir mes projets
             </Link>
             <Link
-              href="/cv-lucas-marciniak.pdf"
+              href="/CV_LucasMarciniak.pdf"
               className="px-8 py-3 border-2 border-primary text-foreground font-medium rounded-full hover:bg-primary hover:text-primary-foreground transition-all"
             >
               Télécharger mon CV

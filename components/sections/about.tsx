@@ -47,7 +47,7 @@ export function AboutSection() {
               </p>
               
               <p className="text-muted-foreground leading-relaxed">
-                Passionné par la transformation des données en valeur business, je combine 
+                Passionné par la data pour innover et résoudre des problèmes complexes, je combine 
                 mes compétences techniques en Python, SQL et Machine Learning avec une 
                 approche orientée résultats. Mon objectif : créer des solutions data-driven 
                 qui ont un impact réel.

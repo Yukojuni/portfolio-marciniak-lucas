@@ -65,7 +65,7 @@ export function ContactSection() {
               <span className="font-medium text-primary">Disponible pour une alternance</span>
               <br />
               <span className="text-muted-foreground">
-                Septembre 2026 · 2 semaines entreprise / 1 semaine école
+                Août 2026 · 2 semaines entreprise / 1 semaine école
               </span>
             </p>
           </div>

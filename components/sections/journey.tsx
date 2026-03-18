@@ -5,14 +5,14 @@ import { GraduationCap, Briefcase } from "lucide-react"
 
 const education = [
   {
-    title: "Master Informatique - Spécialisation IA & Data",
+    title: "Mastère Ingénieur en Sciences des données",
     institution: "Ynov Lyon",
     period: "2026 - 2028",
     description: "Formation approfondie en machine learning, deep learning et big data analytics.",
     current: true,
   },
   {
-    title: "Bachelor Informatique - Spécialisation IA & Data",
+    title: "Bachelor Informatique spécialisation IA & Data",
     institution: "Ynov Lyon",
     period: "2023 - 2026",
     description: "Bases solides en algorithmique, programmation et bases de données.",
@@ -30,15 +30,15 @@ const experiences = [
     title: "Stagiaire Data Engineer",
     company: "Pango Sports",
     period: "2025 - 2026",
-    description: "Analyse de données utilisateurs et création de dashboards pour le suivi des KPIs produit.",
-    skills: ["Python", "SQL", "Power BI"],
+    description: "Collecte, traitement et structuration de données, ainsi que création de visualisations pour faciliter l’analyse et le suivi des informations.",
+    skills: ["Vue", "JavaScript", "NoSQL", "Git"],
   },
   {
     title: "Stagiaire Developper Web",
     company: "Orasi",
     period: "Été 2025",
     description: "Coordination d'une équipe de 4 étudiants sur un projet de prédiction de tendances e-commerce.",
-    skills: ["Leadership", "ML", "Git"],
+    skills: ["TypeScript", "UI/UX", "Git"],
   },
 ]
 
@@ -130,7 +130,7 @@ export function JourneySection() {
                   Recherche active
                 </p>
                 <p className="text-sm text-muted-foreground">
-                  Je suis à la recherche d&apos;une <strong className="text-foreground">alternance</strong> à partir de septembre 2026 
+                  Je suis à la recherche d&apos;une <strong className="text-foreground">alternance</strong> à partir de août 2026 
                   dans le domaine de la data ou de l&apos;IA.
                 </p>
               </div>
