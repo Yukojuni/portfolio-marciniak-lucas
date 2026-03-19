@@ -52,7 +52,7 @@ export const projects: Project[] = [
     "description": "Plateforme interactive pour apprendre le machine learning de manière ludique à travers des missions et du code en direct.",
     "longDescription": "Stellar est un projet pédagogique immersif où l’on apprend le machine learning en explorant un univers spatial. Accompagné de Nova et Orion, l’utilisateur avance à travers des défis, des quiz et un éditeur de code intégré pour tester ses idées en temps réel. L’objectif : rendre des concepts complexes accessibles, concrets et surtout engageants.",
     "context": "Projet académique sur 1 an avec pilotage d’une équipe de 10 personnes.",
-    "stack": ["JavaScript", "HTML", "CSS", "Python", "Machine Learning", "UI/UX"],
+    "stack": ["Python", "Machine Learning", "UI/UX", "HTML", "CSS", "JavaScript"],
     "impact": "Une expérience d’apprentissage fun et interactive qui rend le machine learning plus accessible.",
     "challenges": [
         "Coordonner et piloter une équipe de 10 personnes sur un projet long avec des profils techniques variés",
