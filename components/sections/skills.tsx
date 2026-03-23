@@ -4,22 +4,49 @@ import { Capsule } from "@/components/ui/capsule"
 
 const skillCategories = [
   {
-    title: "Langages & Frameworks",
-    skills: ["Python", "JavaScript", "TypeScript", "SQL", "React", "Next.js"],
+    title: "Data Science & Machine Learning",
+    skills: [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "Dataiku"
+    ],
   },
   {
-    title: "Data & IA",
-    skills: ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "PyTorch", "Jupyter"],
+    title: "Data Analysis & Visualization",
+    skills: [
+      "Power BI",
+      "Excel",
+      "Matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Streamlit"
+    ],
   },
   {
-    title: "Outils & Plateformes",
-    skills: ["Git", "Docker", "Power BI", "Tableau", "Streamlit", "PostgreSQL"],
+    title: "Data Engineering & Automation",
+    skills: [
+      "SQL",
+      "NoSQL",
+      "Snowflake",
+      "ETL Pipelines",
+      "n8n"
+    ],
   },
   {
-    title: "Méthodologies",
-    skills: ["Machine Learning", "Deep Learning", "Data Analysis", "ETL", "Agile", "CI/CD"],
+    title: "Cloud & DevOps",
+    skills: [
+      "Git",
+      "Docker",
+      "AWS",
+      "Azure",
+      "Jupyter Notebook"
+    ],
   },
-]
+];
 
 export function SkillsSection() {
   return (
